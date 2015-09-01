@@ -14,11 +14,6 @@ public class Line extends Element {
 
 
 
-	@Override
-	void rotate(double angle) {
-		// TODO Auto-generated method stub
-
-	}
 
 	@Override
 	void zoom() {
